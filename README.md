@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anna5493
+- 👋 Hi, I’m Anna
 - 👀 I’m interested in AI, ML, DS, lasers, meditation, psychology, singing
 - 🌱 I’m currently learning Transformers
 - 💞️ I’m looking to collaborate on ...
